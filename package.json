@@ -1,0 +1,17 @@
+{
+  "name": "herokuapp",
+  "version": "1.0.0",
+  "description": "sampleherokuapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 15000",
+    "start": "node server.js"
+  },
+  "author": "Satish matapati",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
+}
